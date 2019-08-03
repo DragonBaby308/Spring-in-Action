@@ -74,8 +74,11 @@
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/TestService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/impl/TestServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/resources/mapper/TestMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/JPAManipulateH2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/JPAManipulateH2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/Coffee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/OrderState.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/OrderState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/target/classes/com/bat/JPAManipulateH2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/target/classes/com/bat/JPAManipulateH2Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/target/classes/com/bat/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/target/classes/com/bat/entity/Order.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +94,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -161,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564841966629</updated>
-      <workItem from="1564841973318" duration="4908000" />
+      <workItem from="1564841973318" duration="7998000" />
     </task>
     <servers />
   </component>

@@ -26,7 +26,9 @@ import java.io.Serializable;
 //和DB表关联
 @Table(name = "T_MENU")
 public class Coffee extends BaseEntity implements Serializable {
+
     private String name;
+
     //joda-money的Money类型，通过jadira.usertype和人民币的分进行映射，100.34存储为10034
     @Type(type = "org.jadira.usertype.moneyandcurrency.joda.PersistentMoneyMinorAmount",
         parameters = {@org.hibernate.annotations.Parameter(name = "currencyCode", value = "CNY")})
