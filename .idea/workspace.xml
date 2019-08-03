@@ -74,6 +74,8 @@
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/TestService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/impl/TestServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/resources/mapper/TestMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/OrderState.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_jpa/src/main/java/com/bat/entity/OrderState.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,14 +90,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OuyqVI1zpoXSsLd8oTcaJ0S6fc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -159,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564841966629</updated>
-      <workItem from="1564841973318" duration="3264000" />
+      <workItem from="1564841973318" duration="4908000" />
     </task>
     <servers />
   </component>

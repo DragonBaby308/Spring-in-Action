@@ -2,10 +2,7 @@ package com.bat.entity;
 
 import lombok.*;
 
-import javax.persistence.Entity;
-import javax.persistence.JoinTable;
-import javax.persistence.ManyToMany;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.io.Serializable;
 import java.util.List;
 
@@ -34,4 +31,6 @@ public class Order extends BaseEntity implements Serializable {
     @JoinTable(name = "T_ORDER_COFFEE")
     private List<Coffee> items;
     //订单状态，枚举值
+    @Enumerated
+    private OrderState state;
 }
