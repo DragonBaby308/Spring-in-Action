@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e386e8e4-cf3b-4e5a-b65e-4e4479466870" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/IsArrayATreeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/JumpFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/ReorderArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm/src/com/company/BiArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/BiArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm/src/com/company/FinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/FinalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm/src/com/company/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/LinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm/src/com/company/StringBufferTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Algorithm/src/com/company/StringBufferTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hexo/public/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hexo/public/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/src/main/java/com/bat/sbaclient/SbaClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/client/src/test/java/com/bat/sbaclient/SbaClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/src/main/java/com/bat/sbaserver/SbaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Admin/server/src/test/java/com/bat/sbaserver/SbaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/controller/PurchaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/dao/ProductDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/dao/PurchaseRecordDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/domain/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/domain/PurchaseRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/mapper/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/mapper/PurchaseRecordMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/service/PurchaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/java/com/bat/seckill/service/impl/PurchaseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/resources/mapper/ProductMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/resources/mapper/PurchaseRecordMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot-Seckill/src/main/webapp/WEB-INF/jsp/test.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/SsJwtApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/config/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/controller/JWTController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/domain/Const.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/domain/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/filter/JWTFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/service/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/service/impl/AuthServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/java/com/bat/ssjwt/util/JWTUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringSecurity-JsonWebToken/src/test/java/com/bat/ssjwt/SsJwtApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/controller/PurchaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/dao/TestDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/domain/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/TestService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/impl/TestServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seckill/src/main/resources/mapper/TestMapper.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1OuyqVI1zpoXSsLd8oTcaJ0S6fc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JPAManipulateH2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_boot_jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bat.JPAManipulateH2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.JPAManipulateH2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e386e8e4-cf3b-4e5a-b65e-4e4479466870" name="Default Changelist" comment="" />
+      <created>1564841966629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564841966629</updated>
+      <workItem from="1564841973318" duration="3264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
