@@ -35,12 +35,12 @@ public class MyBatisDemoApplication implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        Coffee c = Coffee.builder().name("espresso")
+        Coffee c = Coffee.builder().id(1L).name("espresso")
                 .price(Money.of(CurrencyUnit.of("CNY"), 20.0)).build();
         int count = coffeeMapper.save(c);
         log.info("Save {} Coffee: {}", count, c);
 
-        c = Coffee.builder().name("latte")
+        c = Coffee.builder().id(2L).name("latte")
                 .price(Money.of(CurrencyUnit.of("CNY"), 25.0)).build();
         count = coffeeMapper.save(c);
         log.info("Save {} Coffee: {}", count, c);
