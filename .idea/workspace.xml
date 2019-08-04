@@ -75,11 +75,7 @@
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/java/com/bat/seckill/service/impl/TestServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seckill/src/main/resources/mapper/TestMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_boot_mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_boot_mybatis/src/main/java/com/bat/MyBatisDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_mybatis/src/main/java/com/bat/MyBatisDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_boot_mybatis/src/main/java/com/bat/mapper/CoffeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_mybatis/src/main/java/com/bat/mapper/CoffeeMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_boot_mybatis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_mybatis/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_boot_mybatis/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_mybatis/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_boot_mybatis/target/classes/com/bat/mapper/CoffeeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_boot_mybatis/target/classes/com/bat/mapper/CoffeeMapper.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564841966629</updated>
       <workItem from="1564841973318" duration="8603000" />
-      <workItem from="1564877976465" duration="7865000" />
+      <workItem from="1564877976465" duration="8349000" />
     </task>
     <servers />
   </component>
