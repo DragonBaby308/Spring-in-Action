@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring_boot_jpa" />
         <module name="spring_boot_mybatis" />
+        <module name="spring_boot_jpa" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring_boot_MaBatisGenerator" target="1.8" />
+      <module name="spring_boot_redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -19,6 +20,7 @@
       <module name="spring_boot_MaBatisGenerator" options="-parameters" />
       <module name="spring_boot_jpa" options="-parameters" />
       <module name="spring_boot_mybatis" options="-parameters" />
+      <module name="spring_boot_redis" options="-parameters" />
     </option>
   </component>
 </project>

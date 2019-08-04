@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/spring_boot_MaBatisGenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_redis/pom.xml" />
       </set>
     </option>
   </component>
