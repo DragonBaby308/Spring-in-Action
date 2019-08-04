@@ -11,6 +11,7 @@
     <modules>
         <module>spring_boot_jpa</module>
         <module>spring_boot_mybatis</module>
+        <module>spring_boot_MaBatisGenerator</module>
     </modules>
 
 

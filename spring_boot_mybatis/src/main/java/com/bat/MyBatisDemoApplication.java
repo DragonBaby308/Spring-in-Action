@@ -15,7 +15,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @program: spring_cloud_in_action
- * @description: 简单MyBatis操作H2数据库启动类
+ * @description: 简单MyBatis操作MySQL数据库启动类
  * @author: DragonBaby308
  * @create: 2019-08-04 08:27
  * @version: 1.0
